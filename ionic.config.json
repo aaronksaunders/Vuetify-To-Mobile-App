@@ -1,0 +1,7 @@
+{
+  "name": "test-project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
