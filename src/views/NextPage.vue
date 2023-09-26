@@ -2,11 +2,12 @@
   <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar>
-        <ion-title>Home Ionic Vue</ion-title>
+        <ion-title>Next Page Ionic Vue</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content>
-      <HelloWorld />
+      <v-container class="fill-height">
+      </v-container>
     </ion-content>
   </ion-page>
 </template>
